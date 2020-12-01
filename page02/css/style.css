@@ -1,0 +1,25 @@
+body {
+  padding: 4%;
+}
+
+.border-tb {
+  border: solid;
+  border-left: none;
+  border-right: none;
+}
+
+.header {
+  font-size: 8vw;
+  font-weight: 900;
+}
+
+.top-rl {
+  font-size: 1.5vw;
+}
+
+.border-top {
+  border: solid;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}

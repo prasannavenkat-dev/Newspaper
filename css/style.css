@@ -1,0 +1,46 @@
+h1 {
+  font-family: "Texturina";
+  font-weight: 900;
+}
+
+.nav-item {
+  padding: 0 18px;
+  color: #fff;
+}
+
+.daydate {
+  color: grey;
+}
+
+#title {
+  text-align: center;
+}
+
+.corner-news {
+  text-align: left;
+}
+
+.borderbox {
+  border: solid;
+}
+
+.newspaper-name {
+  font-size: 7vw;
+}
+
+.borderbottom {
+  border-bottom: solid;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.border-right {
+  border-right: solid;
+}
+
+.border-top{
+    border-top: solid;
+
+}
